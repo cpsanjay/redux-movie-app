@@ -10,3 +10,8 @@
 - You can search any movies or tv series.
 - The descriptions for the individual movies can be read in a seperate page.
 - The description includes IMDB Rating, IMDB Votes, Runtime and Year of released of the movie.
+
+### User Interfaces
+
+![](gitImages/reduxMovieApp01.png)
+![](gitImages/reduxMovieApp02.png)
